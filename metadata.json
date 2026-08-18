@@ -1,0 +1,6 @@
+{
+  "name": "ITPA Estudio estadístico",
+  "description": "Plataforma web de análisis y control estadístico de procesos desarrollada para el ITPA, con hojas de cálculo interactivas, pruebas de hipótesis, ANOVA, regresión lineal, gráficos de control SPC, capacidad de proceso y exportación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
